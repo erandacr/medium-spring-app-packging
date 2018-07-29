@@ -1,0 +1,8 @@
+cache/
+teracache/
+target/
+.project
+.settings/
+.classpath
+.idea/
+*.iml
